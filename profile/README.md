@@ -74,7 +74,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use, 
 ## Contact Us
 Have questions, ideas, or suggestions? Reach out to us:
 
-- **Batch Coordinator**: [Your Coordinator's Name]
-- **GitHub Community**: [Organization GitHub Link]
+- **Coordinator**: Pradip Bhatt.
+- **GitHub Community**:https://github.com/icec-fwu.
 
 Together, let’s create something extraordinary! 💻🌟
